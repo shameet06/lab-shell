@@ -1,0 +1,4 @@
+flags path and line number: ./docs/archive/fieldnotes.txt:3
+top-level python line count: 17
+unfinished-marker Count: 7
+top-level python file count: 3
